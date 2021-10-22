@@ -133,7 +133,7 @@ class EncryptedFileActivity : AppCompatActivity() {
     }
 
     companion object {
-        const val FILE_URL = "https://raw.githubusercontent.com/arhannure2/AddAndSwipeToDelete/master/README.md"
+        const val FILE_URL = "https://raw.githubusercontent.com/arhannure2/EncryptedSharedPreferences/master/README.md"
         const val FILE_NAME = "README.md"
     }
 }
